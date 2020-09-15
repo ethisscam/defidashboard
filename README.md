@@ -11,6 +11,7 @@
 ## Uniswap
 - https://uniswap.info/home
 ## AAVE
+- https://aavewatch.now.sh/
 ## Synthetix
 - https://dashboard.synthetix.io/ 项目方自己做的看板
 - https://snx.tools/home 社区成员做的一个看板，代码不开源
